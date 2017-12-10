@@ -1,15 +1,16 @@
-## Week 49  
-### 2017-12-04 —  2017-12-10
+## Week 50
+### 2017-12-11 —  2017-12-17
 
-1. [x] Revise [Introduction to R](https://campus.datacamp.com/courses/free-introduction-to-r). :+1:
-2. [ ] Revise [Intermediate R](https://campus.datacamp.com/courses/intermediate-r).
-3. [ ] Update the [notes](https://github.com/rajanand/notes/tree/master/R) for the above courses. 
-
+1. [ ] Revise [Intermediate R](https://campus.datacamp.com/courses/intermediate-r). 
+2. [ ] Update the [notes](https://github.com/rajanand/notes/tree/master/R) for the above courses. 
+3. [ ] Clean [sleep](https://sleep.urbandroid.org/documentation/developer-api/csv/) :sleeping: data. 
+4. [ ] Complete [Excel essentials](https://www.coursera.org/learn/excel-essentials/home/welcome) coursera course. :book:
+5. [ ] Start with [Writing efficeint R code](https://campus.datacamp.com/courses/writing-efficient-r-code) datacamp course.
 
 ------ 
 
-### Archive:
+## Archive:
 #### 2017
-1. [Week 49 (Dec 04 - Dec 10)](https://github.com/rajanand/now/blob/master/2017/49.md)
-2. [Week 50 (Dec 11 - Dec 17)](https://github.com/rajanand/now/blob/master/2017/50.md)
+1. [Week 50 (Dec 11 - Dec 17)](https://github.com/rajanand/now/blob/master/2017/50.md) 
+2. [Week 49 (Dec 04 - Dec 10)](https://github.com/rajanand/now/blob/master/2017/49.md)
 
