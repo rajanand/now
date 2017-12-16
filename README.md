@@ -2,10 +2,16 @@
 ### 2017-12-11 —  2017-12-17
 
 - [x] Revise [Intermediate R](https://campus.datacamp.com/courses/intermediate-r). 
-- [ ] Update the [notes](https://github.com/rajanand/notes/tree/master/R) for the intro and intermediate courses. 
+- [ ] Update the [notes](https://github.com/rajanand/notes/tree/master/R) for the intro and intermediate courses. (Update: In progress)
 - [x] Complete [Excel essentials](https://www.coursera.org/learn/excel-essentials/home/welcome) coursera course. :book: :+1:(Update: [Completed](http://link.rajanand.org/coursera-excel-1))
-- [ ] Start with [Writing efficeint R code](https://campus.datacamp.com/courses/writing-efficient-r-code) datacamp course.
+- [x] Start with [Writing efficeint R code](https://campus.datacamp.com/courses/writing-efficient-r-code) datacamp course.
+-----
+## Week 51
+### 2017-12-18 —  2017-12-24
 
+- [ ] Update the [notes](https://github.com/rajanand/notes/tree/master/R) for the intro and intermediate courses.
+- [ ] Start with [Excel Intermediate - 1](https://www.coursera.org/learn/excel-intermediate-1/home/welcome) coursera course. 
+- [ ] Complete [Writing efficeint R code](https://campus.datacamp.com/courses/writing-efficient-r-code) datacamp course.
 ------ 
 
 ## Archive:
